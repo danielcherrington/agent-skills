@@ -16,8 +16,22 @@ SugarCRM 25.x development best practices: architecture (Sidecar, MLP), customiza
 
 ## Installation
 
+Install all skills from this repo:
+
 ```bash
 npx skills add danielcherrington/agent-skills
+```
+
+Install only one skill (e.g. sugarcrm-core):
+
+```bash
+npx skills add danielcherrington/agent-skills --skill sugarcrm-core
+```
+
+List available skills without installing:
+
+```bash
+npx skills add danielcherrington/agent-skills --list
 ```
 
 ## License
