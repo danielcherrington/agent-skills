@@ -1,6 +1,6 @@
 # Agent Skills
 
-SugarCRM development best practices for AI coding agents.
+A collection of reusable skills for AI coding agents.
 
 ## Available skills
 
